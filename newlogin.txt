@@ -1,0 +1,2 @@
+Enter register mobile no
+Enter password
