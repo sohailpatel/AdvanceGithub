@@ -1,3 +1,3 @@
 Enter your emailid
 Enter your password
-Enter your security question
+Enter your emailid
