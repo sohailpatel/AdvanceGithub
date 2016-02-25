@@ -1,0 +1,185 @@
+6571bb1 HEAD@{0}: rebase finished: returning to refs/heads/staging
+6571bb1 HEAD@{1}: rebase: New Login form with id added
+23fbfaf HEAD@{2}: rebase: Added security question
+7320fe5 HEAD@{3}: rebase: Added security question in login.txt
+f29e4cb HEAD@{4}: rebase: Removed emailid and changed to just id
+c20c2a4 HEAD@{5}: rebase: Added mobileno
+e6f1118 HEAD@{6}: rebase: Added extra emailid
+d526102 HEAD@{7}: rebase: Added extra emailid
+f9ff139 HEAD@{8}: rebase: Changed id to emailid
+85399d5 HEAD@{9}: rebase: Home page features completed
+e33b4bb HEAD@{10}: rebase: checkout develop
+5af7d72 HEAD@{11}: commit: New Login form with id added
+ca98b4d HEAD@{12}: checkout: moving from develop to staging
+e33b4bb HEAD@{13}: commit: New Login form added
+346cf26 HEAD@{14}: checkout: moving from staging to develop
+ca98b4d HEAD@{15}: commit: Added security question
+6de11d1 HEAD@{16}: checkout: moving from develop to staging
+346cf26 HEAD@{17}: checkout: moving from staging to develop
+6de11d1 HEAD@{18}: rebase finished: returning to refs/heads/staging
+6de11d1 HEAD@{19}: rebase: Added security question in login.txt
+fd9e300 HEAD@{20}: rebase: Removed emailid and changed to just id
+8a15b1e HEAD@{21}: rebase: Added mobileno
+96b2bc4 HEAD@{22}: rebase: Added extra emailid
+e3adfed HEAD@{23}: rebase: Added extra emailid
+002a6c4 HEAD@{24}: rebase: Changed id to emailid
+da51158 HEAD@{25}: rebase: Home page features completed
+346cf26 HEAD@{26}: rebase: checkout develop
+8f09e2d HEAD@{27}: checkout: moving from develop to staging
+346cf26 HEAD@{28}: commit: Added mobile no in login.txt
+80b882a HEAD@{29}: checkout: moving from staging to develop
+8f09e2d HEAD@{30}: commit: Added security question in login.txt
+2eb28a1 HEAD@{31}: checkout: moving from staging to staging
+2eb28a1 HEAD@{32}: rebase finished: returning to refs/heads/staging
+2eb28a1 HEAD@{33}: checkout: moving from 2dd1f89310610023c1088cf58d2e2828ba2b7bf
+2dd1f89 HEAD@{34}: rebase: checkout f-login
+2eb28a1 HEAD@{35}: commit: Added security question in login.txt
+e2ecb84 HEAD@{36}: checkout: moving from f-login to staging
+2dd1f89 HEAD@{37}: commit: Changed login.txt to image field
+c8da9f6 HEAD@{38}: checkout: moving from staging to f-login
+e2ecb84 HEAD@{39}: commit (merge): Removed conflict in login.txt file
+bfa57a7 HEAD@{40}: commit: Removed emailid and changed to just id
+7f16286 HEAD@{41}: checkout: moving from f-login to staging
+c8da9f6 HEAD@{42}: commit: Added mobileno
+a137f46 HEAD@{43}: checkout: moving from f-login to f-login
+a137f46 HEAD@{44}: rebase -i (finish): returning to refs/heads/f-login
+a137f46 HEAD@{45}: rebase -i (start): checkout f-homepage
+a137f46 HEAD@{46}: rebase -i (finish): returning to refs/heads/f-login
+a137f46 HEAD@{47}: rebase -i (start): checkout f-login
+a137f46 HEAD@{48}: rebase -i (finish): returning to refs/heads/f-login
+a137f46 HEAD@{49}: rebase -i (pick): Added extra emailid
+566af75 HEAD@{50}: rebase -i (start): checkout master
+7f16286 HEAD@{51}: rebase -i (finish): returning to refs/heads/f-login
+7f16286 HEAD@{52}: rebase -i (start): checkout staging
+c78dab5 HEAD@{53}: checkout: moving from staging to f-login
+7f16286 HEAD@{54}: merge f-login: Merge made by the 'recursive' strategy.
+566af75 HEAD@{55}: checkout: moving from f-login to staging
+c78dab5 HEAD@{56}: commit: Added extra emailid
+0406adc HEAD@{57}: checkout: moving from staging to f-login
+566af75 HEAD@{58}: commit: Changed id to emailid
+0406adc HEAD@{59}: checkout: moving from f-login to staging
+0406adc HEAD@{60}: pull origin f-homepage: Fast-forward
+80b882a HEAD@{61}: checkout: moving from staging to f-login
+0406adc HEAD@{62}: checkout: moving from f-homepage to staging
+0406adc HEAD@{63}: rebase -i (finish): returning to refs/heads/f-homepage
+0406adc HEAD@{64}: rebase -i (squash): Home page features completed
+e3cfb33 HEAD@{65}: rebase -i (start): checkout master
+83cb66f HEAD@{66}: rebase -i (finish): returning to refs/heads/f-homepage
+83cb66f HEAD@{67}: rebase -i (start): checkout f-homepage
+83cb66f HEAD@{68}: commit: Admin feature completed
+e3cfb33 HEAD@{69}: checkout: moving from f-usedata to f-homepage
+00365a2 HEAD@{70}: pull origin f-homepage: Merge made by the 'recursive' strateg
+ac7847f HEAD@{71}: rebase -i (finish): returning to refs/heads/f-usedata
+ac7847f HEAD@{72}: rebase -i (pick): Delete login.txt
+11f9288 HEAD@{73}: rebase -i (pick): userdata added
+eaf6a65 HEAD@{74}: rebase -i (reword): Home page feature completed
+667bc25 HEAD@{75}: cherry-pick: fast-forward
+80b882a HEAD@{76}: rebase -i (start): checkout master
+c4e9923 HEAD@{77}: rebase -i (finish): returning to refs/heads/f-usedata
+c4e9923 HEAD@{78}: rebase -i (pick): Delete login.txt
+3c701da HEAD@{79}: rebase -i (pick): userdata added
+667bc25 HEAD@{80}: rebase -i (reword): Added home page hjdhfggid
+0615462 HEAD@{81}: cherry-pick: fast-forward
+80b882a HEAD@{82}: rebase -i (start): checkout master
+fd3d709 HEAD@{83}: rebase -i (finish): returning to refs/heads/f-usedata
+fd3d709 HEAD@{84}: rebase -i (pick): Delete login.txt
+d64221e HEAD@{85}: rebase -i (pick): userdata added
+0615462 HEAD@{86}: rebase -i (reword): Added home page
+708622e HEAD@{87}: cherry-pick: fast-forward
+80b882a HEAD@{88}: rebase -i (start): checkout master
+dd00ea4 HEAD@{89}: rebase -i (finish): returning to refs/heads/f-usedata
+dd00ea4 HEAD@{90}: rebase -i (start): checkout master
+dd00ea4 HEAD@{91}: rebase -i (finish): returning to refs/heads/f-usedata
+dd00ea4 HEAD@{92}: rebase -i (start): checkout master
+dd00ea4 HEAD@{93}: rebase -i (finish): returning to refs/heads/f-usedata
+dd00ea4 HEAD@{94}: rebase -i (pick): Delete login.txt
+fbe5472 HEAD@{95}: rebase -i (pick): userdata added
+708622e HEAD@{96}: rebase -i (reword): Added home page
+e3cfb33 HEAD@{97}: cherry-pick: fast-forward
+80b882a HEAD@{98}: rebase -i (start): checkout master
+2b6c057 HEAD@{99}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{100}: rebase -i (start): checkout master
+2b6c057 HEAD@{101}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{102}: rebase -i (start): checkout master
+2b6c057 HEAD@{103}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{104}: rebase -i (start): checkout master
+2b6c057 HEAD@{105}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{106}: rebase -i (start): checkout master
+2b6c057 HEAD@{107}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{108}: rebase -i (start): checkout master
+2b6c057 HEAD@{109}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{110}: rebase -i (start): checkout master
+2b6c057 HEAD@{111}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{112}: rebase -i (start): checkout master
+2b6c057 HEAD@{113}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{114}: rebase -i (start): checkout master
+2b6c057 HEAD@{115}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{116}: rebase -i (start): checkout master
+2b6c057 HEAD@{117}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{118}: rebase -i (start): checkout master
+2b6c057 HEAD@{119}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{120}: rebase -i (start): checkout master
+2b6c057 HEAD@{121}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{122}: rebase -i (start): checkout master
+2b6c057 HEAD@{123}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{124}: rebase -i (start): checkout master
+2b6c057 HEAD@{125}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{126}: rebase -i (start): checkout master
+2b6c057 HEAD@{127}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{128}: rebase -i (start): checkout master
+2b6c057 HEAD@{129}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{130}: rebase -i (start): checkout master
+2b6c057 HEAD@{131}: rebase -i (finish): returning to refs/heads/f-usedata
+2b6c057 HEAD@{132}: rebase -i (pick): Delete login.txt
+4ca7af7 HEAD@{133}: rebase -i (start): checkout master
+ef95b4d HEAD@{134}: pull origin f-homepage: Merge made by the 'recursive' strate
+4ca7af7 HEAD@{135}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{136}: rebase -i (start): checkout master
+4ca7af7 HEAD@{137}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{138}: rebase -i (start): checkout master
+4ca7af7 HEAD@{139}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{140}: rebase -i (start): checkout master
+4ca7af7 HEAD@{141}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{142}: rebase -i (start): checkout master
+4ca7af7 HEAD@{143}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{144}: rebase -i (start): checkout master
+4ca7af7 HEAD@{145}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{146}: rebase -i (start): checkout master
+4ca7af7 HEAD@{147}: rebase -i (finish): returning to refs/heads/f-usedata
+4ca7af7 HEAD@{148}: rebase -i (start): checkout f-usedata
+4ca7af7 HEAD@{149}: commit: userdata added
+e3cfb33 HEAD@{150}: checkout: moving from f-homepage to f-usedata
+e3cfb33 HEAD@{151}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{152}: rebase -i (start): checkout f-homepage
+e3cfb33 HEAD@{153}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{154}: rebase -i (start): checkout master
+e3cfb33 HEAD@{155}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{156}: rebase -i (start): checkout master
+e3cfb33 HEAD@{157}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{158}: rebase -i (start): checkout master
+e3cfb33 HEAD@{159}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{160}: rebase -i (start): checkout master
+e3cfb33 HEAD@{161}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{162}: rebase -i (start): checkout master
+e3cfb33 HEAD@{163}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{164}: rebase -i (start): checkout f-homepage
+e3cfb33 HEAD@{165}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{166}: rebase -i (start): checkout e3cfb3320b771e773447e09a9d9612d5
+e3cfb33 HEAD@{167}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{168}: rebase -i (start): checkout e3cfb3320b771e773447e09a9d9612d5
+e3cfb33 HEAD@{169}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{170}: rebase -i (start): checkout e3cfb3320b771e773447e09a9d9612d5
+e3cfb33 HEAD@{171}: rebase -i (finish): returning to refs/heads/f-homepage
+e3cfb33 HEAD@{172}: rebase -i (start): checkout f-homepage
+e3cfb33 HEAD@{173}: commit: Added home page
+80b882a HEAD@{174}: checkout: moving from develop to f-homepage
+80b882a HEAD@{175}: merge f-login: Fast-forward
+96fe4cc HEAD@{176}: checkout: moving from f-login to develop
+80b882a HEAD@{177}: commit: Login feature completed
+96fe4cc HEAD@{178}: checkout: moving from develop to f-login
+96fe4cc HEAD@{179}: checkout: moving from f-login to develop
+96fe4cc HEAD@{180}: checkout: moving from develop to f-login
+96fe4cc HEAD@{181}: checkout: moving from master to develop
+96fe4cc HEAD@{182}: pull origin master: Fast-forward
+2fcaf33 HEAD@{183}: commit (initial): Initial commit added readme.txt
+(END)
