@@ -1,0 +1,8 @@
+Branches are used in github to differentiate between two process.
+It is used for parallel processing, where data is stored in respective branch.
+This feature becomes usefull when we want to work on different features of an application at a time.
+Now when we want to add the changes of one branch to other then we can use merge or rebase.
+
+
+Merge and Rebase both retrive same output,but when we process the data through rebase its look that they are processed serially rather than parallely. 
+Rebase can also be used for intractive process by rebase -i where we can edit the commit message, squash the commit message.
